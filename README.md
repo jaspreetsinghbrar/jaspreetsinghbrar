@@ -1,4 +1,4 @@
-## Hi there 👋. I am Jaspreet.
+## Hi there 👋. I am Jaspreet!
 - 🔭 I’m currently working on creating awesome projects to showcase my skills.
 - :man: Studied Backend development from Noroff University.
 - 🌱 I’m currently learning NextJS framework and Typescript.
