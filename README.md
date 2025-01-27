@@ -1,4 +1,7 @@
 ## Hi there 👋. I am Jaspreet.
+- 🔭 I’m currently working on creating awesome projects to showcase my skills.
+- :man: Studied Backend development from Noroff University.
+- 🌱 I’m currently learning NextJS framework and Typescript.
 
 <!--
 **jaspreetsinghbrar/jaspreetsinghbrar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
