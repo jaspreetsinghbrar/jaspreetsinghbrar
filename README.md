@@ -3,7 +3,7 @@
 - :man: Studied Backend development from Noroff University.
 - 🌱 I’m currently learning NextJS framework and Typescript.
 - 📫 How to reach me: My email jas.brar@ymail.com and my number 93470201.
-- [![Linkedin](https://i.sstatic.net/gVE0j.png) https://www.linkedin.com/in/jaspreet-singh-brar-a7501024/
+- [Linkedin](https://i.sstatic.net/gVE0j.png) https://www.linkedin.com/in/jaspreet-singh-brar-a7501024/
 
 
 <!--
